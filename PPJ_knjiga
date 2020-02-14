@@ -1,0 +1,21 @@
+44-leksicka analiza (prvih par stranica osnovno)
+	58-oporavak od pogreske
+	63-nejednoznacnost1
+71-sintaksna analiza (isto opcenito na pocetku)
+	79-oporavak od pogreske
+	81-bnf i co-no (imas u auditornima)
+	84-parsiranje od vrha prema dnu (lakse od od dna prema vrhu;kreces od poc. nez. znaka)
+		85-S-gram (87-tri pravila za s-gram)
+		91-Q-gram (93-SLIJEDI i PRIMJENI opisuje, 94-pravila za q-gram)
+		dalje ide ll-1 gram (97-ZAPOCINJE)
+	113-od dna prema vrhu; tu imas na pocetku dosta tehnika koje su vecinon u auditornima objasnjene
+		138-LR parsiranje i LR stavke zive
+		153-nadziranje pogresaka
+159-semanticka analiza
+	167-izravnavanje sintaksnog stabla
+	171-prijevodna gram. opcenito
+	173-atrib. prijevodna gram. ( to imas u auditornima al je tamo lose opisano)
+		prouci tu nasljedna i izvedena svojstva
+	184-imas objasnjen potisni automat za l-atributnu prijevodnu gram, ali ja to nisan ni gleda bia
+
+ostalo sve san samo prosa auditorne za zi i pokusa skuzit kako sta radi, od teorije san samo pogleda kako se po opsegu rangiraju gramatike tipa q je sira od s i tjt
